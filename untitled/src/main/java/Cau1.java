@@ -1,0 +1,2 @@
+public class Cau1 {
+}
